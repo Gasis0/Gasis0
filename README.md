@@ -2,11 +2,6 @@
 <div id="header" align="center">
   <img src=https://img.freepik.com/premium-photo/image-of-a-funny-sheep-wearing-sunglasses-on-blue-background_175994-6713.jpg?size=626&ext=jpg" width="300"/>
 </div>
-<div id="badges" align="center">
-  <a href="https://t.me/Loony221">
-    <img src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-</div >
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Loony221&style=flat-square&color=blue" alt=""/>
   <h1>
