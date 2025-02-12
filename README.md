@@ -2,9 +2,9 @@
 <div id="header" align="center">
   <img src=https://img.freepik.com/premium-photo/image-of-a-funny-sheep-wearing-sunglasses-on-blue-background_175994-6713.jpg?size=626&ext=jpg" width="300"/>
 </div>
-    hey there
+   <center> hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
+  </h1></center>
   
 ---
 :man_technologist: About Me :
